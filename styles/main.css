@@ -1,6 +1,6 @@
 html {
     background-image: url("Sankes.gif");
-    background-repeat: repeat;         /* repeats both directions*/
+    background-repeat: repeat-x;         /* repeats both directions*/
 }
 body {
     font-family: Ariel, Helvetica, "sans-serif";
